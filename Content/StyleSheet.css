@@ -1,0 +1,30 @@
+﻿body {
+    background: url(../images/mirrors-edge-2-wallpaper-1920x1080-Video-Game-Wallpapers.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+
+.well {
+    background: rgba(255, 255, 255, 0.85);
+    color: rgba(0,0,0,1);
+}
+
+.vert-space {
+    margin-top: 110px;
+}
+
+#skills {
+    text-align: center;
+    min-height: 405px;
+}
+
+#skills div {
+    margin: 0.2em;
+    display: inline-block;
+}
+
+#ontheweb {
+    list-style-type: none;
+}
